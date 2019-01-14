@@ -17,4 +17,7 @@ In a new terminal type
 dnsmasq -C /root/dnsmasq.conf -d
 
 If I knew how to automate into new tabs i'd do it. Maybe in the next day or so. 
-1 
+
+
+https://hackforums.net/member.php?action=profile&uid=3937934
+https://hackforums.net/showthread.php?tid=5926317
