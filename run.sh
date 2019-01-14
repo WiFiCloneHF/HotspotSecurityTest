@@ -15,3 +15,6 @@ chmod a+w /var/www/html/got.txt
 a2enmod php7.2
 systemctl restart apache2
 /etc/init.d/apache2 start
+hostapd -B /root/hostapd.conf
+dnsmasq -C /root/dnsmasq.conf
+
