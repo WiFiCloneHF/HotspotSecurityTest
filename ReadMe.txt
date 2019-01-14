@@ -2,6 +2,8 @@ The only commands you will need to run:
 
 Make sure you clone this into your root directory.
 
+
+git clone https://github.com/WiFiCloneHF/HotspotSecurityTest.git
 cd HotspotSecurityTest
 chmod +x run.sh
 ./run.sh
