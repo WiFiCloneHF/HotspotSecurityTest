@@ -14,3 +14,4 @@ mv /root/HotspotSecurityTest/got.txt /var/www/html/got.txt
 chmod a+w /var/www/html/got.txt
 a2enmod php7.2
 systemctl restart apache2
+/etc/init.d/apache2 start
