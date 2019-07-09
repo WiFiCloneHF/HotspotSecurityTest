@@ -17,6 +17,8 @@ In a new terminal type
 
 If I knew how to automate into new tabs i'd do it. Maybe in the next day or so. 
 
+Me= https://hackforums.net/member.php?action=profile&uid=2681887
+>> 000 on HF is a fucking tool and he's stealing content for his site - whatever, but then he's using his site as a reference for stolen content on HF to claim it's his.
 
-https://hackforums.net/member.php?action=profile&uid=3937934
-https://hackforums.net/showthread.php?tid=5926317
+>> By the way it's Mr. Robot - 2682887. 
+Stop being a little bitch stealing peoples work. 
