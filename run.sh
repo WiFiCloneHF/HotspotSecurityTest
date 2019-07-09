@@ -12,7 +12,7 @@ mv /root/HotspotSecurityTest/process.php /var/www/html/process.php
 mv /root/HotspotSecurityTest/success.html /var/www/html/success.html
 mv /root/HotspotSecurityTest/got.txt /var/www/html/got.txt
 chmod a+w /var/www/html/got.txt
-a2enmod php7.2
+a2enmod php7.3
 systemctl restart apache2
 /etc/init.d/apache2 start
 hostapd -B /root/hostapd.conf
